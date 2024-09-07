@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/tictactoePic.jpg
 title: "TicTacToe"
 date: 2022
 published: true
