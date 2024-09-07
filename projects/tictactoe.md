@@ -10,6 +10,7 @@ labels:
   - Java
 summary: "A tictactoe game I made in ICS 211"
 ---
+<img width="200px" src="../img/tictactoePic.jpg" class="img-thumbnail" >
 
 Just a little tictactoe game that was given as an assignment in my ICS 211 class.
 
