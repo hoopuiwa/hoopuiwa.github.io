@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: "Lo'i cleaning and planting"
-date: 2022
+date: 2021-06-03
 published: true
 labels:
   - Agriculture
