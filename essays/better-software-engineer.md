@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Becoming a better Software Engineer"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-07
+date: 2024-09-12
 published: true
 labels:
   - Software Engineering
