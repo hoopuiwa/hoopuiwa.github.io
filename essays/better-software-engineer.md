@@ -1,4 +1,4 @@
-w---
+---
 layout: essay
 type: essay
 title: "Becoming a better Software Engineer"
