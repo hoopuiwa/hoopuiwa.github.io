@@ -10,7 +10,7 @@ labels:
   - Java
 summary: "A tictactoe game I made in ICS 211"
 ---
-###Maunawili lo'i
+### Maunawili lo'i
 <img width="200px" src="../img/tictactoePic.jpg" class="img-thumbnail" >
 
 
