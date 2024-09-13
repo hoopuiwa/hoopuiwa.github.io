@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/kunia-land-resize.jpg
-title: "Placeholder Project 3"
+title: "Kunia land clearing"
 date: 2021-10-30
 published: true
 labels:
