@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: 
-title: "Kalo patch cleaning and planting"
+title: "Lo'i cleaning and planting"
 date: 2022
 published: true
 labels:
-  - Game
-  - Java
-summary: "A tictactoe game I made in ICS 211"
+  - Agriculture
+  - Volunteer work
+summary: "A day on the land"
 ---
 ### Maunawili lo'i
+
 <img width="200px" src="../img/maunawili1.jpg" class="img-thumbnail" >    <img width="200px" src="../img/maunawili2.jpg" class="img-thumbnail" >    <img width="200px" src="../img/maunawili3.jpg" class="img-thumbnail" >  
 
 
