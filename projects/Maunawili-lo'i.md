@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/maunawili1.jpg
+image: img/maunawili1.edit.jpg
 title: "Lo'i cleaning and planting"
 date: 2021-06-03
 published: true
