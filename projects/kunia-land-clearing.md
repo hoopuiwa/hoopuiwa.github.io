@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kunia-land.jpg
+image: img/kunia-land-resize.jpg
 title: "Placeholder Project 3"
 date: 2021-10-30
 published: true
