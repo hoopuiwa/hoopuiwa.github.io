@@ -16,7 +16,7 @@ labels:
   organizing and defining them into different categories. However, at its core, most of the patterns are essentially well defined approaches to different problems in software design. It seems that all of these defined software patterns could be both formally, intentionally applied or applied unknowingly, as I believe a majority of us in ICS 314 would fall into the latter category.
 
 ### What do design patterns even consist of?
- <img width="300px" height="200px" class="rounded float-start pe-4" src="../img/designpatterns.webp">
+ <img width="300px" class="rounded float-start pe-4" src="../img/designpatterns.webp">
 
   After searching a little bit, it seems that there are numerous design patterns, compiled and analyzed throughout many years, usually referring to different aspects of design patterns. While some of them aren't very applicable to us students currently, as we haven't touched upon certain issues solved by such design patterns or simply have not needed to solve a problem like that, we actually have run into
   many design patterns, as for example in this class I believe that we have mostly dealt with creational and behavioral patterns, such as unknowingly using factory patterns through changing output based on paramters/input, which could also be extended to leaving object/action details up to subclasses. Another common one we have also most likely used includes things in the behavioral patterns category, such as observer patterns, a seemingly
