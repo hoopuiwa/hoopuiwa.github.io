@@ -23,6 +23,6 @@ labels:
   Looking back on some of my old code, I can see how coding standards are so fundamental to coding and software engineering in particular. Just seeing how messy and unstandardized my code was made me think of how potentially bad it could be if companies and bigger databases had no standards anywhere, or practiced any form of commenting/good coding conventions. With fragments of disheveled code across the screen, with no
   understanding of what it might do, I can see how a lack of structure can lead to some catastrophic effects primarily in maintenance, a very important aspect of software engineering. I will admit that while getting rid of the errors is a pretty unfamiliar and unfortunately time consuming activity, I can understand why it is almost necessary.
 
-  ![ci-badge](https://github.com/3D-Wizards-Inc/3D-Wizards-Inc/workflows/3D-Wizards-Inc/badge.svg)
+
 
 
