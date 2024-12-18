@@ -10,7 +10,7 @@ labels:
   - Learning/Reflection
   - AI
 ---
-
+<img width="300px" class="rounded float-start pe-4" src="../img/chatgot.jpg">
 ## Programming and learning through AI
   In software engineering and even education as a whole, AI seems to be a quickly growing tool that increasingly more people are starting to use and reference in many situations. For me, what started as an unlikely prospect actually happened to be one of my biggest teachers
   this semester, having learned a lot about chatGPT itself and, more importantly, how to learn and adapt to new concepts through it more efficiently. Alongside this, we were also ushered to make use of github copilot, another related tool that definitely seems to make many
