@@ -11,17 +11,17 @@ labels:
   - AI
 ---
 
-### Programming and learning through AI
+## Programming and learning through AI
   In software engineering and even education as a whole, AI seems to be a quickly growing tool that increasingly more people are starting to use and reference in many situations. For me, what started as an unlikely prospect actually happened to be one of my biggest teachers
   this semester, having learned a lot about chatGPT itself and, more importantly, how to learn and adapt to new concepts through it more efficiently. Alongside this, we were also ushered to make use of github copilot, another related tool that definitely seems to make many
   tedious parts of coding less strenuous, along with sort of guiding you along your coding. However, as I didnt really have my student ID at the time this semester (never got around to snatching it, pretty stupid), I never really had the chance to make use of a seemingly 
   resourceful tool. Nevertheless, I am pretty content with how things have played out, both in my journey of learning more about the contribution of AI to my learning career and also seeing how I've handled and worked around new concepts.
 
-### The suprising use of AI in class
+## The suprising use of AI in class
   Near the beginning of this class, I wasn't very familiar with using AI in general, much less applied to a classroom setting with software engineering in mind. At first, I did not have a grasp on how useful it actually would be for learning concepts, and I am naturally
   pretty inquisitve about things and like to learn how they work, its interesting I didnt try it out sooner. 
 
-## WODs and class related material, pretty useful!
+### WODs and class related material, pretty useful!
   For class related material in particular, starting with experience WODs, I actually do admit to having watched the screencasts first for a majority of the videos. However,
   for some I decided it would be in my best interest to attempt to figure it out myself at first, then possibly try to prompt chatGPT for some much needed help if I really found myself stuck. Primarily, I found that it was slightly less useful for HTMl/CSS related code, as that in general
   is a little more abstract in terms of how to present it to chatGPT in a way you get a result you'd be satisfied with. However, for much of the typescript related WODs, I found it pretty useful as well, however during that time I also wasn't really using it as much, as this was near the 
@@ -29,7 +29,7 @@ labels:
   WOD's in general, and although chatGPT was pretty helpful, using it under pressure with the clock ticking definitely did not contribute to efficient usage of chatGPT, scrambling to make sense of the code its spitting back at me while also trying to balance between keeping track of time and deciding
   when to bail and attempt to write the code myself, an example of course being the 3 part html page WODs (island snow for practice, murphys, and aloha beer, all of which centered around the main topic I found it to have trouble with: HTMl and CSS). 
 
-## Learning and practice, even more useful!
+### Learning and practice, even more useful!
   In general, I found it more as a useful practice, learning,
   and analysis tool rather than an on-the-spot programming tool, and honestly that actually seems more beneficial to me, allowing me to learn and absorb concepts myself rather than relying on it to do almost everything for me. For writing, I almost never ask chatGPT for help as I don't really see the need to
   and I also enjoy writing to an extent, so I dont feel as inclined to use it. For the final project however, I saw the most use for this tool, learning many integral concepts to software engineering, mostly referring to the usage of nextJS and nextAUTH in particular. While postgres and prisma definitely
