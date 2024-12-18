@@ -27,7 +27,7 @@ labels:
   is a little more abstract in terms of how to present it to chatGPT in a way you get a result you'd be satisfied with. However, for much of the typescript related WODs, I found it pretty useful as well, however during that time I also wasn't really using it as much, as this was near the 
   beginning of the class, where I was still pretty skeptical about using it. For practice WOD's and in class WOD's, I actually found them to be slightly less useful. Due to a mix of not really preparing for the WOD's very well along with nerves, I would usually have a pretty hard time on the
   WOD's in general, and although chatGPT was pretty helpful, using it under pressure with the clock ticking definitely did not contribute to efficient usage of chatGPT, scrambling to make sense of the code its spitting back at me while also trying to balance between keeping track of time and deciding
-  when to bail and attempt to write the code myself, an example of course being the 3 part html page WODs (island snow for practice, murphys, and aloha beer, all of which centered around the main topic I found it to have trouble with: HTMl and CSS). 
+  when to bail and attempt to write the code myself, an example of course being the 3 part html page WODs (island snow for practice, murphys, and aloha beer, all of which centered around the main topic I found it to have trouble with: HTML and CSS). 
 
 ### Learning and practice, even more useful!
   In general, I found it more as a useful practice, learning,
