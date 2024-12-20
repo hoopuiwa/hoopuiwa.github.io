@@ -10,7 +10,7 @@ labels:
   - Learning/Reflection
   - Other
 ---
-
+<img width="300px" class="rounded float-start pe-4" src="../img/apm.webp">
 ## Then and now
   Now that this semester is coming to a close, I feel that much has changed, both in my perspective of software engineering and how I approach many different problems, as I believe that through taking this course, my fundamental understandings of project planning and
   organization has seen a sizeable improvement. Specifically, the concept of Agile Project Development in conjunction with Issue Driven Project Management was a rude awakening for me, as conceptually I have never really had to both work in a team on a software engineering
