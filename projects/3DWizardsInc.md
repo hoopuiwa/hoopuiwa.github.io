@@ -11,6 +11,7 @@ labels:
   - Final Project
 summary: "Website made by our team for 3D Wizards Inc."
 ---
+<img width="800px" class="rounded justify-content: center" src="../img/3dwiz-homepage.png">
 # Project summary and development
   This project is pretty much a demonstration of skill application and accumulation throughout both me and my classmates journey through our ICS 314 class, software engineering. We learned much about how code is standardized, good work practices,
   team management skills, and adaptability and self-learning. As such, we were tasked to create our own website, which could have any purpose we wished, as long as it complied with the professor's standards and most importantly, what we were 
