@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/3dw.png
+image: img/3dw-hirez.png
 title: "3D Wizards Inc."
 date: 2024-12-15
 published: true
