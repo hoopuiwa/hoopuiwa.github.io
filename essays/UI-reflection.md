@@ -4,7 +4,7 @@ type: essay
 title: "Strapped in for bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
-published: false
+published: true
 labels:
   - HTML
   - CSS
