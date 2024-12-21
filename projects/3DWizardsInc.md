@@ -19,13 +19,15 @@ summary: "Website made by our team for 3D Wizards Inc."
   orders. As many of us saw the potential impact this project could possibly have on not only our class grade, but also in terms of real world impact, me personally, I was ready to completely commit to this idea. It was pretty fun to have the chance
   to make something that would actually see the light of day, having a chance to make a difference in peoples lives. So there you go, the origin story of this project!
 
-# Project details
+# Project details and contribution
   The website was primarily developed using a nextjs template referred to us by our professors, which we then subsequently developed and built upon, adding our own unique functionality and flair to the site and quickly repurposing it for order submission.
   While I wouldn't say its at an industry standard in terms of aesthetics or complete functionality, I believe we had accomplished a sizeable amount of work. However, there is definitely room for improvement in many aspects, either polishing currently added features
   or adding QOL features to the site. In terms of development specifics, the application as a whole was developed as a NextJS app, primarily using VSCode as our IDE with both the front-end and back-end utilizing Typescript. For our database, we made use of a postgres
-  database. For project deployment, we used Vercel, which hosted the site and also our postgres database. In all, this project was actually really fun to work on, both on the project itself and collaborating with my teammates. For more information, the project information
-  will be put down below:
+  database. For project deployment, we used Vercel, which hosted the site and also our postgres database. My contribution and work on the project mostly consisted of designing and implementing admin function and also setting up/fixing the database, making sure products
+  and schemas were written and updated, along with some other aspects of the site like the store search. In all, this project was actually really fun to work on, both on the project itself and collaborating with my teammates. For more information, the project information will be put down below:
 
-  Project deployment: [3D Wizards Inc. Vercel App](https://3-d-wizards-inc-two.vercel.app/)
-  Source code/github: [3D Wizards Inc. Github](https://github.com/3D-Wizards-Inc/3D-Wizards-Inc)
-  Project description and development documentation: [3D Wizards Milestones and development](https://3D-Wizards-Inc.github.io)
+  <ol>
+    <li>Project deployment: [3D Wizards Inc. Vercel App](https://3-d-wizards-inc-two.vercel.app/)</li>
+    <li>Source code/github: [3D Wizards Inc. Github](https://github.com/3D-Wizards-Inc/3D-Wizards-Inc)</li>
+    <li>Project description and development documentation: [3D Wizards Milestones and development](https://3D-Wizards-Inc.github.io)</li>
+  </ol>
