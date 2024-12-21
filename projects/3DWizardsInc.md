@@ -26,8 +26,6 @@ summary: "Website made by our team for 3D Wizards Inc."
   database. For project deployment, we used Vercel, which hosted the site and also our postgres database. My contribution and work on the project mostly consisted of designing and implementing admin function and also setting up/fixing the database, making sure products
   and schemas were written and updated, along with some other aspects of the site like the store search. In all, this project was actually really fun to work on, both on the project itself and collaborating with my teammates. For more information, the project information will be put down below:
 
-  <ol>
-    <li>Project deployment: [3D Wizards Inc. Vercel App](https://3-d-wizards-inc-two.vercel.app/)</li>
-    <li>Source code/github: [3D Wizards Inc. Github](https://github.com/3D-Wizards-Inc/3D-Wizards-Inc)</li>
-    <li>Project description and development documentation: [3D Wizards Milestones and development](https://3D-Wizards-Inc.github.io)</li>
-  </ol>
+- Project deployment: [3D Wizards Inc. Vercel App](https://3-d-wizards-inc-two.vercel.app/)
+- Source code/github: [3D Wizards Inc. Github](https://github.com/3D-Wizards-Inc/3D-Wizards-Inc)
+- Project description and development documentation: [3D Wizards Milestones and development](https://3D-Wizards-Inc.github.io)
