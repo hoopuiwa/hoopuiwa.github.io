@@ -16,7 +16,7 @@ summary: "A tictactoe game I made in ICS 211"
 
 
 ## Video
-![Tictactoe example vid](https://www.youtube.com/watch?v=6dvS9ypoFc4)
+[![Old Tictactoevid](https://img.youtube.com/vi/6dvS9ypoFc4/0.jpg)](https://www.youtube.com/watch?v=6dvS9ypoFc4)
 
 
 ## Code snippet
