@@ -17,4 +17,4 @@ what to expect, I decided to take her up on her offer and accompany them to the 
 After scrounging around my photo albums on my phone for a bit, I managed to encounter some pictures of the experience. We also got to take some Kalo cuttings to take home and plant in our backyard, which was a pretty nice gift aswell! (Pretty sure they died like 2 weeks later).
 
 
-<img width="200px" src="../img/maunawili1.jpg" class="img-thumbnail" >    <img width="200px" src="../img/maunawili2.jpg" class="img-thumbnail" >    <img width="200px" src="../img/maunawili3.jpg" class="img-thumbnail" >  
+<img width="300px" src="../img/maunawili1.jpg" class="img-thumbnail" >    <img width="300px" src="../img/maunawili2.jpg" class="img-thumbnail" >    <img width="300px" src="../img/maunawili3.jpg" class="img-thumbnail" >  
