@@ -16,8 +16,8 @@ summary: "A tictactoe game I made in ICS 211"
 
 
 ## Video
-  <video width="320" height="240" controls>
-    <source src="tictactoe-oldvid.mp4" type="video/mp4">
+  <video width="1920" height="1080" controls>
+    <source src="https://www.youtube.com/watch?v=6dvS9ypoFc4" type="video/mp4">
   </video>
 
 
