@@ -16,7 +16,9 @@ summary: "A tictactoe game I made in ICS 211"
 
 
 ## Video
-  ![](tictactoe-oldvid.mp4)
+  <video width="320" height="240" controls>
+    <source src="tictactoe-oldvid.mp4" type="video/mp4">
+  </video>
 
 
 ## Code snippet
