@@ -16,7 +16,7 @@ summary: "A tictactoe game I made in ICS 211"
 
 
 ## Video
-  asdasd
+  ![](tictactoe-oldvid.mp4)
 
 
 ## Code snippet
