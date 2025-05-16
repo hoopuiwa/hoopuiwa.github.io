@@ -32,6 +32,7 @@ labels:
   As our main goal was to make an application that could confidently display, modify, and assess certain financial information (primarily business related costs and also relevant generated forecasts from current financial data), and also since the majority of the placeholder for this that the company was using were very large, complex excel spreadsheets, we knew we had two main objectives here: 
   * Learn how this mass of excel sheets works, and...
   * ...implement it through code.
+
   It was a pretty intimidating spreadsheet i'll say, with a ton of financial data, formulas, theoretical scenarios and forecasts (percentage or multiplier based modifiers that could affect multiple years and rows of financial information, which we'd have to implement into the app). Thinking about it all at once was pretty scary, so the best directive we decided on was to split the problem up into smaller parts,
   something pretty similar (essentially the same as) Agile project management, which was a concept learned from ICS 314 to help streamline and efficiently progress in our team management and development progress, with the main pillars being:
   1. Split the project into milestones, which themselves consist of smaller, bite sized tasks
