@@ -58,7 +58,7 @@ labels:
 ## Last takeaways and lessons
   Honestly, I really did feel that I failed my team due to my lack of communication and ability to efficiently contribute. While I did have the motivation and excitement to make progress in what I was tasked with, I feel that since we weren't well coordinated, and I was just too afraid to say anything, it made it harder for all of us to contribute as much as we could've been, despite us still getting a slightly functioning app running. I think I need to reassess how important communication is and not be afraid to try and just talk to my teammates, as the consequences can be pretty dire, as I've learned from this experience. I'm pretty thankful to have had the opportunity to work with these guys to make something more than just a homework or assignment; rather, something a little more "real" and impactful, which is something that I'm not really used to. With that, I'll leave the link to the GitHub repository and also the official site down below in case you're curious how it turned out. Thanks for reading my essay!
 
-GitHub repository:[Kala Forecast repo](https://github.com/kala-forecast/kalaforecast)
+GitHub repository: [Kala Forecast repo](https://github.com/kala-forecast/kalaforecast)
 
 Official site: [Kala forecast website](http://kalaforecast.org)
 
