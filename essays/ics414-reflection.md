@@ -22,13 +22,23 @@ labels:
   atleast force me to slightly study, just pure, independent responsibility. After the first couple days, we eventually had to form teams, and, similar to the end of last semesters ICS 314 class where we also had to develop a project, I knew that there was a whole lot more I'd have to learn for this class. 
 
 ## Back to the past
-  With the majority of my team members having been out of ICS 314 for a while now, I was pretty much the fresh meat in the group. Having realized that my ICS 314 class was the first to switch to a new tech stack (postgreSQL for databases and next.js for app development), I quickly realized I was in the minority
-  for the vote. However, I never really voiced against using Meteor and MongoDB (the old tech stack), as why should I inconvenience my whole team of 7 people to learn the new tech stack when it could just be me doing the switch? It would be way more comfortable for the team to work with something they're familiar with,
-  so I just decided I had to suck it up and experiment with the meteor app template we were provided. After looking up the documentation, it seemed pretty similar to the nextjs app: similar compiling and run commands, etc. However, the biggest difference was in the file directory structure: different routing style, schema validations,
+  With the majority of my team members having been out of ICS 314 for a while now, I was pretty much the noob in the group. Having realized that my ICS 314 class was the first to switch to a new tech stack (postgreSQL for databases and next.js for app development), and that majority of the people there werent fresh out of ICS 314, I quickly realized I was in the minority
+  for the vote. However, I never really voiced against using Meteor and MongoDB (the old tech stack), as why should I inconvenience my whole team of 7 people to learn the new tech stack when it could just be me doing the switch? It would be way more comfortable (and efficient) for the team to work with something they're familiar with,
+  so I just decided I had to suck it up and experiment with the meteor app template we were provided. After looking up the documentation, it seemed pretty similar to the nextjs app template: similar compiling and run commands, etc. However, the biggest difference was in the file directory structure: different routing style, schema validations,
   tags, even the user account and password tokenization was different as well. I got pretty nervous as I basically thought, "I gotta teach myself essentially what I learned in the latter portion of ICS 314 within these first few days". It actually went pretty smoothly, as I just sort of looked at the content of what my teammates were committing,
   adding pages, user roles, and just sort of worked out the file dependency, structure, and organization for myself. It was a pretty good test to see how much I could learn about this new environment and I'm pretty pleased with it. However, little did I know that code development-specific problems were the least of my worries...
 
 ## A lesson in finance: Tables, graphs, and more tables
-  As our main goal was to make an application that could confidently display, modify, and assess certain financial information (primarily business related costs and also relevant generated forecasts from current financial data), we knew we had two main problems here in terms of development: 
-  Learn how this stuff works, and implement it through code.
+  As our main goal was to make an application that could confidently display, modify, and assess certain financial information (primarily business related costs and also relevant generated forecasts from current financial data), and also since the majority of the placeholder for this that the company was using were very large, complex excel spreadsheets, we knew we had two main objectives here: 
+  * Learn how this mass of excel sheets works, and...
+  * ...implement it through code.
+  It was a pretty intimidating spreadsheet i'll say, with a ton of financial data, formulas, theoretical scenarios and forecasts (percentage or multiplier based modifiers that could affect multiple years and rows of financial information, which we'd have to implement into the app). Thinking about it all at once was pretty scary, so the best directive we decided on was to split the problem up into smaller parts,
+  something pretty similar (essentially the same as) Agile project management, which was a concept learned from ICS 314 to help streamline and efficiently progress in our team management and development progress, with the main pillars being:
+  1. Split the project into milestones, which themselves consist of smaller, bite sized tasks
+  2. Further split the tasks into different issues on the GitHub board, where each team member assigns themselves multiple (around 1-2 per person per milestone)
+  3. Code reviews, to see how we can improve our programming skills and also learn from past mistakes or habits
+  It was a pretty solid approach that could be applied to a majority of problems (not just development), and so we sort of went with it.
+
+### The first stretch
+  From the start, we sort of knew how some of the work was going to be split up
   
