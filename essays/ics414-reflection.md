@@ -15,7 +15,7 @@ labels:
     src="../img/Screenshot 2025-05-15 222331.png" 
     width="1000" 
     class="rounded" 
-    alt="Reflection screenshot" 
+    alt="spire login picture" 
     style="display: block; margin: 0 auto 50px auto"
   >
 </div> 
