@@ -13,7 +13,7 @@ labels:
 <div style="text-align: center;">
   <img 
     src="../img/Screenshot 2025-05-15 222331.png" 
-    width="600" 
+    width="1000" 
     class="rounded" 
     alt="Reflection screenshot" 
     style="display: block; margin: 0 auto;"
