@@ -16,7 +16,7 @@ labels:
     width="1000" 
     class="rounded" 
     alt="Reflection screenshot" 
-    style="display: block; margin: 0 auto;"
+    style="display: block; margin: 0 auto 20px auto"
   >
 </div> 
   Now that the semester is coming to an end, I think that now of all times would be the perfect time to share some of my thought process, failures and successes, and my overall experience from this class. It's been a very insightful experience, showing me a lot about myself, what some of my weaknesses are,
