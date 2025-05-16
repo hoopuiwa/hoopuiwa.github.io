@@ -9,7 +9,8 @@ labels:
   - Software design
   - Learning/Reflection
 ---
-# ICS 414: Reflection on expectations and reality  
+# ICS 414: Reflection on expectations and reality
+<img width="600px" class="rounded justify-content: center" src="../img/Screenshot 2025-05-15 222331.png">
   Now that the semester is coming to an end, I think that now of all times would be the perfect time to share some of my thought process, failures and successes, and my overall experience from this class. It's been a very insightful experience, showing me a lot about myself, what some of my weaknesses are,
   and what the most important takeaway for this class was. While not very satisfied or pleased with my own performance in the class, which was completely all on my end, I believe that I could've done a lot of things better, not just software related but through team communication, time management, and overall
   responsibility. But before that, I think it would be best to sort of explain this whole story from the beginning:
