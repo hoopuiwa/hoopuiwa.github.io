@@ -11,7 +11,13 @@ labels:
 ---
 # ICS 414: Reflection on expectations and reality
 <div style="text-align: center;">
-  <img width="600px" class="rounded justify-content: center" src="../img/Screenshot 2025-05-15 222331.png">
+  <img 
+    src="../img/Screenshot 2025-05-15 222331.png" 
+    width="600" 
+    class="rounded" 
+    alt="Reflection screenshot" 
+    style="display: block; margin: 0 auto;"
+  >
 </div> 
   Now that the semester is coming to an end, I think that now of all times would be the perfect time to share some of my thought process, failures and successes, and my overall experience from this class. It's been a very insightful experience, showing me a lot about myself, what some of my weaknesses are,
   and what the most important takeaway for this class was. While not very satisfied or pleased with my own performance in the class, which was completely all on my end, I believe that I could've done a lot of things better, not just software related but through team communication, time management, and overall
